@@ -257,4 +257,4 @@ var r=require("unist-util-visit-parents");function e(){return function(e){return
 },{"react":"HdMw","./IndexPage.scss":"mOMO","../Logo/Logo":"zWM7","../ContactSection/ContactSection":"aXH3","../PortfolioSection/PortfolioSection":"u782","../ArticlePage/ArticlePage":"AHAy"}],"H99C":[function(require,module,exports) {
 "use strict";var e=u(require("react")),r=u(require("react-dom")),t=u(require("./components/IndexPage/IndexPage"));function u(e){return e&&e.__esModule?e:{default:e}}var a=document.getElementById("app");r.default.render(e.default.createElement(t.default,null),a);
 },{"react":"HdMw","react-dom":"X9zx","./components/IndexPage/IndexPage":"nrrs"}]},{},["H99C"], null)
-//# sourceMappingURL=/src.aeccca02.js.map
+//# sourceMappingURL=/src.3a0d4bd7.js.map
